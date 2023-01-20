@@ -1,0 +1,5 @@
+(("Internet of Things" OR "IoT") AND ("Security" OR "Cybersecurity")) AND 
+("Blockchain" OR "Block-chain" OR "Blockchain Technology" OR "BC") AND 
+(("Low Cost" OR "Low-Cost" OR "Low Power" OR "Low-Power" OR "Lightweight" OR "Energy Efficient" OR "Energy-Efficient") AND 
+("Consensus" OR "Consensus Algorithm" OR "Consensus Algorithms" OR "Consensus Protocol" OR "Consensus Protocols") AND 
+("Approach" OR "Approaches" OR "Mechanism" OR "Mechanisms" OR "Application" OR "Applications"))
